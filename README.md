@@ -15,3 +15,11 @@ El resultado es una experiencia única, mucho más profunda y desafiante que el 
 - Descripciones de objetos, armas y bloques localizadas.  
 - Textos de misiones y diálogos traducidos.  
 - Se mantiene la coherencia de términos técnicos para no perder claridad.  
+
+## 📥 Cómo obtener los archivos
+
+1. Ve al repositorio en GitHub.  
+2. Haz clic en la pestaña **Releases** (o añade `/releases` a la URL del repositorio).  
+3. Busca la versión que quieras descargar.  
+4. En la sección **Assets**, selecciona el archivo que necesites (normalmente `.zip` o `.tar.gz`).  
+5. Descarga y extrae los archivos en la carpeta correspondiente del juego según las instrucciones del repositorio.
